@@ -1,8 +1,9 @@
-# git
+# git and github.
 important
 nice
 good
 awesome
 fabulous
+web based
 
-are git's features.
+are git and github's features.
